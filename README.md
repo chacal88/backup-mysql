@@ -1,5 +1,6 @@
-###backup-mysql
-##INSTALACÃO
+### backup-mysql
+
+## INSTALACÃO
 
 <code>git clone https://github.com/chacal88/backup-mysql.git</code>
 <code>cd backup_mysql</code>
@@ -8,11 +9,11 @@
  
  $<code> cp mysql_backup.sh /usr/local/bin/ </code>
  
-#adicione ao crontab
+# adicione ao crontab
 <code>00 00 * * * /usr/local/bin/mysql_backup.sh</code>
 
 
-#INSTALAÇÃO AWS
+## INSTALAÇÃO AWS
 Instalar o AWS Command Line Interface no Linux
 
 Instale o AWS Command Line Interface e suas dependências na maioria das distribuições do Linux com pip, um gerenciador de pacote para Python.
