@@ -1,5 +1,5 @@
-#backup-mysql
-#INSTALACÃO
+###backup-mysql
+##INSTALACÃO
 
 <code>git clone https://github.com/chacal88/backup-mysql.git</code>
 <code>cd backup_mysql</code>
