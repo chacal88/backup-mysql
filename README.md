@@ -9,7 +9,7 @@
  
  $<code> cp mysql_backup.sh /usr/local/bin/ </code>
  
-# adicione ao crontab
+# Adicione ao crontab
 <code>00 00 * * * /usr/local/bin/mysql_backup.sh</code>
 
 
