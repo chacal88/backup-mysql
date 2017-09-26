@@ -48,4 +48,4 @@ do mysqldump --user=$DB_USER --password=$DB_PASSWD $options $db | gzip > "$fullp
 done
 
 #sync to amazon
-aws s3 sync . s3://$bucket/$bucket_directory
+aws s3 sync  $path/* s3://$bucket/$bucket_directory
