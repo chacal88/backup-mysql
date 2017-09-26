@@ -6,7 +6,7 @@ fullpath="$path$directory"
 bucket_directory=""
 bucket=""
 export AWS_ACCESS_KEY_ID=
-export AWS_SECRET_ACCESS_KEY=/puMOnX1RZW5tZ7HKF8
+export AWS_SECRET_ACCESS_KEY=
 export AWS_DEFAULT_REGION=
 
 DB_USER=""
