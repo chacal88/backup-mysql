@@ -1,5 +1,9 @@
 #backup-mysql
 #INSTALACÃO
+
+<code>git clone https://github.com/chacal88/backup-mysql.git</code>
+<code>cd backup_mysql</code>
+
  - copie o arquivo mysql_backup para /usr/local/bin/
  
  $<code> cp mysql_backup.sh /usr/local/bin/ </code>
